@@ -145,37 +145,6 @@ I'm a Computer Engineering student at Charotar University with a **9.45/10 CGPA*
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitij0504&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img 
-    src="https://streak-stats.demolab.com?user=kshitij0504&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij0504&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kshitij0504&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitij0504&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
 <p align="center">
   <em>💡 "Building impactful applications that make a difference, one commit at a time."</em>
 </p>
